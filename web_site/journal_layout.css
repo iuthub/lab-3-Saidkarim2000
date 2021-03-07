@@ -1,0 +1,42 @@
+body{
+    margin: 0 10%;
+    background-image: url('images/back1.png');
+}
+
+.header__1{
+    text-align: right;
+    background-color: #A8F0F0;
+}
+.friends{
+    background-color: #58F0F0;
+    border: 5px solid #6daafb;
+    height: 110%;
+    width: 30%;
+    margin: 10px;
+    
+}
+.body{
+    border: 10px solid white;
+    background-color: white;
+}
+
+.header__2{
+    display: flex;
+}
+#fresh{
+    font-size: 14pt;
+}
+.date{
+    border-bottom: 2px dashed blue;
+}
+.Monster{
+    border: 4px solid #C2E9E9;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: auto;
+
+}
+.Monster img{
+    float: right;
+}
